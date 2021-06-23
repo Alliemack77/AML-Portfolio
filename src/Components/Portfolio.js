@@ -13,7 +13,7 @@ const Portfolio = () => {
             name: "The Music Shop",
             body: "The Music Shop was a fun project I designed with the intent of using CSS properties like clip-path: polygon(), Grid, and absolute positioning.",
             img: musicShop,
-            stack: "HTML, Sass, Parcel",
+            stack: "HTML, Sass, Parcel, Figma",
             link: "https://themusicshop.netlify.app",
             repo: "https://github.com/Alliemack77/TheMusicShop",
             key: 1
@@ -23,7 +23,7 @@ const Portfolio = () => {
             name: "The BeeHive",
             body: "The BeeHive is a networking platform for neurodiverse IT professionals who are looking for career support and community. I developed this project along with my classmates as part of my final project at Digital Career Institute. My role was design and frontend.",
             img: beeHive,
-            stack: "React, Redux, Sass, Axios, GitLab ",
+            stack: "React, Redux, Sass, Axios, GitLab, Figma",
             link: "https://thebeehivenetwork.netlify.app",
             repo: "https://github.com/Alliemack77/TheBeeHive",
             key: 0
@@ -33,7 +33,7 @@ const Portfolio = () => {
             name: "The Skate Shop",
             body: "The Skate Shop is an exploration of layout with CSS Flexbox. I created this landing page as an exercise in Flexbox functionality and all it has to offer.",
             img: skateboardImg,
-            stack: "HTML, CSS, JavaScript",
+            stack: "HTML, CSS, JavaScript, Figma",
             link: "https://theskateshop.netlify.app",
             repo: "https://github.com/Alliemack77/The-Skate-Shop",
             key: 2

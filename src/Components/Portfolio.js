@@ -11,7 +11,7 @@ const Portfolio = () => {
     const projects = [
         {
             name: "The Music Shop",
-            body: "The Music Shop was a fun project I designed with the intent of using CSS properties like clip-path: polygon(), Grid, and absolute positioning.",
+            body: "The Music Shop is a landing page I designed and built using CSS Grid and properties like clip-path: polygon() and absolute positioning.",
             img: musicShop,
             stack: "HTML, Sass, Parcel, Figma",
             link: "https://themusicshop.netlify.app",

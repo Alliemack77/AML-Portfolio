@@ -105,8 +105,8 @@ body {
 }
 
 .row {
-  width: 100%;
-  grid-area: col;
+  /* width: 100%;
+  grid-area: col; */
   align-items: center;
 }
 

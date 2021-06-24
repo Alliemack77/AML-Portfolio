@@ -25,7 +25,7 @@ const Portfolio = () => {
             img: beeHive,
             stack: "React, Redux, Sass, Axios, GitLab, Figma",
             link: "https://thebeehivenetwork.netlify.app",
-            repo: "https://github.com/Alliemack77/TheBeeHive",
+            repo: "https://gitlab.com/dci-final-project/dci-final-project",
             key: 0
         },
 

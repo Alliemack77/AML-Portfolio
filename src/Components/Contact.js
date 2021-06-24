@@ -9,6 +9,7 @@ const Contact = () => {
 
     return (
 
+        <>
         <div className='contact'>
             <h2 className="contact-title">contact me</h2>
             <div className="icons">
@@ -18,6 +19,8 @@ const Contact = () => {
             </div>
 
         </div>
+        <p className="signature">check out my portfolio <a className="contact-link" href="https://github.com/Alliemack77/AML-Portfolio" target="_blank">repo</a></p>
+        </>
     );
 
 }

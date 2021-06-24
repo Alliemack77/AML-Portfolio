@@ -14,8 +14,8 @@ const ImageLeft = (props) => {
                 <p>{props.body}</p>
                 <p className="bold">{props.stack}</p>
                 <div>
-                    <a className="btn btn-dark" href={props.repo} target="_blank">explore code</a>
-                    <a className="btn btn-light" href={props.link} target="_blank">live demo</a>
+                    <a className="btn" href={props.repo} target="_blank">explore code</a>
+                    <a className="btn" href={props.link} target="_blank">live demo</a>
                 </div>
             </div>
         </div>

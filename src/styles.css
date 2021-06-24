@@ -106,9 +106,7 @@ body {
   grid-area: portfolio-img;
 }
 
-.row {
-  align-items: center;
-}
+
 
 .col {
   margin-top: 1.5rem;
@@ -203,6 +201,10 @@ body {
     grid-template-areas:
         " home-img home-body ";
     
+  }
+
+  .row {
+    align-items: center;
   }
 
   .wrapper {
